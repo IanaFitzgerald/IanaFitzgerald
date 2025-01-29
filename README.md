@@ -9,37 +9,37 @@ I'm a Quality Assurance Engineer based in Ontario, Canada.
 + :books: I am committed to continuous learning and refining my expertise in cutting-edge testing technologies and methodologies.
 
 ## Programming Languages:
-Java
++ Java
 
 ## Test Automation:  
-  + Selenium (WebDriver)  
-  + Cypress (in progress)  
-  + JUnit  
-  + TestNG  
-  + Maven  
++ Selenium (WebDriver)  
++ Cypress (in progress)  
++ JUnit  
++ TestNG  
++ Maven  
 
 ## API Testing:
-  + Postman  
-  + RestAssured  
++ Postman  
++ RestAssured  
 
 ## Performance Testing:
-  + JMeter  
-  + Apache Benchmark  
++ JMeter  
++ Apache Benchmark  
 
 ## IDE:  
-  + IntelliJ IDEA  
++ IntelliJ IDEA  
 
 ## Programming:
-  + Java  
-  + HTML  
-  + SQL  
-  + Object-Oriented Programming (OOP)  
++ Java  
++ HTML  
++ SQL  
++ Object-Oriented Programming (OOP)  
 
 ## CI/CD:  
-  + Linux  
-  + Docker  
-  + Maven  
-  + Git  
++ Linux  
++ Docker  
++ Maven  
++ Git  
   + GitHub  
   + Jenkins
 
