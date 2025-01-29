@@ -43,8 +43,6 @@ I'm a Quality Assurance Engineer based in Ontario, Canada.
   + GitHub  
   + Jenkins
 
-    _____
-
 ## Contact 📬  
 - **LinkedIn:** [Iana Fitzgerald](https://www.linkedin.com/in/iana-fitzgerald)  
 - **Email:** ifitzgerald.ca@gmail.com  
