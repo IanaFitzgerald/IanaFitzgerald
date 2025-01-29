@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello,I am Iana :wave:
 
-<!--
-**IanaFitzgerald/IanaFitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Quality Assurance Engineer based in Ontario, Canada.
 
-Here are some ideas to get you started:
+## About me :herb:
++ :bookmark: Certified Full-Stack QA Engineer with extensive experience in manual and automated testing across diverse industries, including retail, travel, and job search platforms.
++ :computer: Strong programming skills and deep knowledge of testing methodologies, with the ability to quickly adapt to new technologies. 
++ :sparkles: Great analytical and problem-solving abilities.
++ :books: I am committed to continuous learning and refining my expertise in cutting-edge testing technologies and methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages:
+Java
+
+## Test Automation:  
+  + Selenium (WebDriver)  
+  + Cypress (in progress)  
+  + JUnit  
+  + TestNG  
+  + Maven  
+
+## API Testing:
+  + Postman  
+  + RestAssured  
+
+## Performance Testing:
+  + JMeter  
+  + Apache Benchmark  
+
+## IDE:  
+  + IntelliJ IDEA  
+
+## Programming:
+  + Java  
+  + HTML  
+  + SQL  
+  + Object-Oriented Programming (OOP)  
+
+## CI/CD:  
+  + Linux  
+  + Docker  
+  + Maven  
+  + Git  
+  + GitHub  
+  + Jenkins
+
+    _____
