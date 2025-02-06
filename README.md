@@ -14,8 +14,7 @@ I'm a Quality Assurance Engineer based in Ontario, Canada.
 ## Test Automation:  
 + Selenium (WebDriver)  
 + Cypress (in progress)  
-+ JUnit  
-+ TestNG  
++ JUnit   
 + Maven  
 
 ## API Testing:
@@ -40,8 +39,8 @@ I'm a Quality Assurance Engineer based in Ontario, Canada.
 + Docker  
 + Maven  
 + Git  
-  + GitHub  
-  + Jenkins
++ GitHub  
++ Jenkins
 
 ## Contact 📬  
 - **LinkedIn:** [Iana Fitzgerald](https://www.linkedin.com/in/iana-fitzgerald)  
